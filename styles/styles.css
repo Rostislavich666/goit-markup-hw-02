@@ -1,0 +1,159 @@
+.body{
+    font-family: 'Roboto', 'Raleway', sans-serif;
+    color: #FFFFFF;
+}
+.web{
+    color: #4D5AE5;
+}
+.studio{
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.33;
+    color: #2E2F42;
+    text-decoration: none;
+}
+.studio:hover{
+    color: #404BBF;
+}
+.studio:focus{
+    color: #404BBF;
+}
+.nav-link{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2E2F42;
+    text-decoration: none;
+}
+.nav-link:hover {
+    color: #404BBF;
+}
+.nav-link:focus{
+    color: #404BBF;
+}
+.contact{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+    text-decoration: none;
+}
+.contact:hover{
+    color: #404BBF;
+}
+.contact:focus{
+    color: #404BBF;
+}
+.sec-esfyb{
+    background: #2E2F42;
+}
+.central-h{
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 1.11;
+    color: #FFFFFF;
+}
+.or-serv-li {
+    background: #4D5AE5;
+    cursor: pointer;
+}
+.or-serv-li:hover{
+    background: #404BBF;
+}
+.or-serv-li:focus{
+    background: #404BBF;
+}
+.or-serv{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.18;
+    color: #FFFFFF;
+}
+.mini-h{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2E2F42;
+}
+.text-des{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #434455;
+}
+.specialization{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 1.11;
+    color: #2E2F42;
+}
+.sec-team{
+    background: #F4F4FD;
+}
+.team-port{
+    background: #FFFFFF;
+}
+.name{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2x;
+    color: #2E2F42;
+}
+.sp{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+.foot{
+    background: #2E2F42;
+}
+.st-foot{
+    line-height: 1.16;
+    color: #F4F4FD;
+}
+.st-foot:hover{
+    color: #404BBF;
+}
+.st-foot:focus{
+    color: #404BBF;
+}
+.text-foot{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #E7E9FC;
+}
+.all-but{
+    background: #404BBF;
+    cursor: pointer;
+}
+.all-text {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+}
+.but{
+    background: #F4F4FD;
+    cursor: pointer;
+}
+.but-text{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #4D5AE5;
+}
+.port-h{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2E2F42;
+}
+.port-class{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
